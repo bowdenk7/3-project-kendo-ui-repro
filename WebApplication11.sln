@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kendo1", "WebApplication11\Kendo1.csproj", "{F1480FA3-8DF7-4E8F-80E1-7DBD9AF0DA3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kendo2", "Kendo2\Kendo2.csproj", "{BC68FC3F-D246-4537-991E-EC9F684361AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kendo3", "Kendo3\Kendo3.csproj", "{4F9F4E65-44EE-46A7-85EC-7FC354DDD1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1480FA3-8DF7-4E8F-80E1-7DBD9AF0DA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1480FA3-8DF7-4E8F-80E1-7DBD9AF0DA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1480FA3-8DF7-4E8F-80E1-7DBD9AF0DA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1480FA3-8DF7-4E8F-80E1-7DBD9AF0DA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC68FC3F-D246-4537-991E-EC9F684361AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC68FC3F-D246-4537-991E-EC9F684361AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC68FC3F-D246-4537-991E-EC9F684361AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC68FC3F-D246-4537-991E-EC9F684361AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9F4E65-44EE-46A7-85EC-7FC354DDD1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9F4E65-44EE-46A7-85EC-7FC354DDD1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9F4E65-44EE-46A7-85EC-7FC354DDD1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9F4E65-44EE-46A7-85EC-7FC354DDD1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
